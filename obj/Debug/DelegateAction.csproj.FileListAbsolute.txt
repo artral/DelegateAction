@@ -1,0 +1,5 @@
+C:\Projects\DelegateAction\DelegateAction\bin\Debug\DelegateAction.exe.config
+C:\Projects\DelegateAction\DelegateAction\bin\Debug\DelegateAction.exe
+C:\Projects\DelegateAction\DelegateAction\bin\Debug\DelegateAction.pdb
+C:\Projects\DelegateAction\DelegateAction\obj\Debug\DelegateAction.exe
+C:\Projects\DelegateAction\DelegateAction\obj\Debug\DelegateAction.pdb
